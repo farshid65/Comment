@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DHymPEYkdsuaKe0c0gAXRPbm8JqG9+xk4KVUmz3fdQbqR9LHwyI5ROr4Tcy6fQIB2OtzRaEOyeZ3uQWQK1SBpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pouya\\OneDrive\\دسکتاپ\\Comment\\CommentApplicatin.Domain\\CommentApplicatin.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pouya\\.nuget\\packages\\mediatr\\6.0.0\\mediatr.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

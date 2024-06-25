@@ -1,0 +1,17 @@
+C:\Users\pouya\source\repos\CommentApplication.Persistence\bin\Debug\net6.0\CommentApplication.Persistence.deps.json
+C:\Users\pouya\source\repos\CommentApplication.Persistence\bin\Debug\net6.0\CommentApplication.Persistence.runtimeconfig.json
+C:\Users\pouya\source\repos\CommentApplication.Persistence\bin\Debug\net6.0\CommentApplication.Persistence.dll
+C:\Users\pouya\source\repos\CommentApplication.Persistence\bin\Debug\net6.0\CommentApplication.Persistence.pdb
+C:\Users\pouya\source\repos\CommentApplication.Persistence\bin\Debug\net6.0\CommentApplicatin.Domain.dll
+C:\Users\pouya\source\repos\CommentApplication.Persistence\bin\Debug\net6.0\CommentApplicatin.Domain.pdb
+C:\Users\pouya\source\repos\CommentApplication.Persistence\obj\Debug\net6.0\CommentApplication.Persistence.csproj.AssemblyReference.cache
+C:\Users\pouya\source\repos\CommentApplication.Persistence\obj\Debug\net6.0\CommentApplication.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pouya\source\repos\CommentApplication.Persistence\obj\Debug\net6.0\CommentApplication.Persistence.AssemblyInfoInputs.cache
+C:\Users\pouya\source\repos\CommentApplication.Persistence\obj\Debug\net6.0\CommentApplication.Persistence.AssemblyInfo.cs
+C:\Users\pouya\source\repos\CommentApplication.Persistence\obj\Debug\net6.0\CommentApplication.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\pouya\source\repos\CommentApplication.Persistence\obj\Debug\net6.0\CommentApplication.Persistence.csproj.CopyComplete
+C:\Users\pouya\source\repos\CommentApplication.Persistence\obj\Debug\net6.0\CommentApplication.Persistence.dll
+C:\Users\pouya\source\repos\CommentApplication.Persistence\obj\Debug\net6.0\refint\CommentApplication.Persistence.dll
+C:\Users\pouya\source\repos\CommentApplication.Persistence\obj\Debug\net6.0\CommentApplication.Persistence.pdb
+C:\Users\pouya\source\repos\CommentApplication.Persistence\obj\Debug\net6.0\CommentApplication.Persistence.genruntimeconfig.cache
+C:\Users\pouya\source\repos\CommentApplication.Persistence\obj\Debug\net6.0\ref\CommentApplication.Persistence.dll

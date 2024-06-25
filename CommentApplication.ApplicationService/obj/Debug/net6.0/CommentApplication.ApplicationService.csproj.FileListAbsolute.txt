@@ -1,0 +1,15 @@
+C:\Users\pouya\source\repos\CommentApplication.ApplicationService\bin\Debug\net6.0\CommentApplication.ApplicationService.deps.json
+C:\Users\pouya\source\repos\CommentApplication.ApplicationService\bin\Debug\net6.0\CommentApplication.ApplicationService.dll
+C:\Users\pouya\source\repos\CommentApplication.ApplicationService\bin\Debug\net6.0\CommentApplication.ApplicationService.pdb
+C:\Users\pouya\source\repos\CommentApplication.ApplicationService\bin\Debug\net6.0\CommentApplicatin.Domain.dll
+C:\Users\pouya\source\repos\CommentApplication.ApplicationService\bin\Debug\net6.0\CommentApplicatin.Domain.pdb
+C:\Users\pouya\source\repos\CommentApplication.ApplicationService\obj\Debug\net6.0\CommentApplication.ApplicationService.csproj.AssemblyReference.cache
+C:\Users\pouya\source\repos\CommentApplication.ApplicationService\obj\Debug\net6.0\CommentApplication.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pouya\source\repos\CommentApplication.ApplicationService\obj\Debug\net6.0\CommentApplication.ApplicationService.AssemblyInfoInputs.cache
+C:\Users\pouya\source\repos\CommentApplication.ApplicationService\obj\Debug\net6.0\CommentApplication.ApplicationService.AssemblyInfo.cs
+C:\Users\pouya\source\repos\CommentApplication.ApplicationService\obj\Debug\net6.0\CommentApplication.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\pouya\source\repos\CommentApplication.ApplicationService\obj\Debug\net6.0\CommentApplication.ApplicationService.csproj.CopyComplete
+C:\Users\pouya\source\repos\CommentApplication.ApplicationService\obj\Debug\net6.0\CommentApplication.ApplicationService.dll
+C:\Users\pouya\source\repos\CommentApplication.ApplicationService\obj\Debug\net6.0\refint\CommentApplication.ApplicationService.dll
+C:\Users\pouya\source\repos\CommentApplication.ApplicationService\obj\Debug\net6.0\CommentApplication.ApplicationService.pdb
+C:\Users\pouya\source\repos\CommentApplication.ApplicationService\obj\Debug\net6.0\ref\CommentApplication.ApplicationService.dll

@@ -1,0 +1,12 @@
+C:\Users\pouya\source\repos\CommentApplicatin.Domain\bin\Debug\net6.0\CommentApplicatin.Domain.deps.json
+C:\Users\pouya\source\repos\CommentApplicatin.Domain\bin\Debug\net6.0\CommentApplicatin.Domain.dll
+C:\Users\pouya\source\repos\CommentApplicatin.Domain\bin\Debug\net6.0\CommentApplicatin.Domain.pdb
+C:\Users\pouya\source\repos\CommentApplicatin.Domain\obj\Debug\net6.0\CommentApplicatin.Domain.csproj.AssemblyReference.cache
+C:\Users\pouya\source\repos\CommentApplicatin.Domain\obj\Debug\net6.0\CommentApplicatin.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pouya\source\repos\CommentApplicatin.Domain\obj\Debug\net6.0\CommentApplicatin.Domain.AssemblyInfoInputs.cache
+C:\Users\pouya\source\repos\CommentApplicatin.Domain\obj\Debug\net6.0\CommentApplicatin.Domain.AssemblyInfo.cs
+C:\Users\pouya\source\repos\CommentApplicatin.Domain\obj\Debug\net6.0\CommentApplicatin.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pouya\source\repos\CommentApplicatin.Domain\obj\Debug\net6.0\CommentApplicatin.Domain.dll
+C:\Users\pouya\source\repos\CommentApplicatin.Domain\obj\Debug\net6.0\refint\CommentApplicatin.Domain.dll
+C:\Users\pouya\source\repos\CommentApplicatin.Domain\obj\Debug\net6.0\CommentApplicatin.Domain.pdb
+C:\Users\pouya\source\repos\CommentApplicatin.Domain\obj\Debug\net6.0\ref\CommentApplicatin.Domain.dll
